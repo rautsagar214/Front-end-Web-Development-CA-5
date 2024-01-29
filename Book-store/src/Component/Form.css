@@ -1,0 +1,50 @@
+.main{
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    gap:10px;
+
+}
+.container{
+    background-color: bisque;
+    height:250px;
+    width: 200px;
+    padding: 150px;
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    margin-left: 32vw;
+    margin-top: 5vw;
+    border: 2px solid salmon;
+    border-radius: 15px;
+}
+input{
+    height: 25px;
+    width: 350px;
+    border-radius: 12px;
+}
+
+.BTN{
+    height: 40px;
+    width: 80px;
+    padding: 5px;
+    background-color: rgb(8, 254, 0);
+}
+.logo{
+    height: 50px;
+    width: 50px;
+}
+.logo-div{
+    display: flex;
+    align-items:center ;
+    justify-content: center;
+    text-align: center;
+    
+
+}
