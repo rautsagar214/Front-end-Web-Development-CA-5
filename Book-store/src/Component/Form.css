@@ -27,7 +27,7 @@
 input{
     height: 25px;
     width: 350px;
-    border-radius: 12px;
+    border-radius: 8px;
 }
 
 .BTN{
@@ -43,8 +43,15 @@ input{
 .logo-div{
     display: flex;
     align-items:center ;
-    justify-content: center;
+    margin-left: 5vw;
+}
+.navb{
+    justify-content: start;
+    background-color: #8ACDD7;
+    height: 70px;
+    width: 100%;
+    display: flex;
+    /* justify-content: space-around; */
+    align-items: center;
     text-align: center;
-    
-
 }
