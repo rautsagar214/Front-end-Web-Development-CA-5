@@ -20,14 +20,11 @@
 .main-Register-btn{
     height: 35px;
     width: 150px;
-    /* margin-right: 20px; */
-    /* border: 2px solid #FFC0D9; */
     background-color: #F9F9E0;
     border-radius: 8px;
 }
 
 .details-flex{
-/* display: flex; */
 background-color: #8ACDD7;
 width: 350px;
 height: 350px;
@@ -36,7 +33,6 @@ flex-direction: column;
 align-items: center;
 text-align: center;
 align-items: center;
-/* gap: 5px; */
 margin: 5px;
 padding: 10px;
 box-shadow: 5px 5px 15px black;

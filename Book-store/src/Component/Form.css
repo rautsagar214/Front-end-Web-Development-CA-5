@@ -9,7 +9,7 @@
 
 }
 .container{
-    background-color: bisque;
+    background-color:rgb(102, 175, 214);
     height:250px;
     width: 200px;
     padding: 150px;
@@ -21,7 +21,7 @@
     justify-content: center;
     margin-left: 32vw;
     margin-top: 5vw;
-    border: 2px solid salmon;
+    border: 2px solid rgb(246, 246, 0);
     border-radius: 15px;
 }
 input{
@@ -54,4 +54,12 @@ input{
     /* justify-content: space-around; */
     align-items: center;
     text-align: center;
+}
+.color{
+    color: red;
+}
+.green{
+    color: rgb(0, 255, 30);
+    font-size:30px;
+    font-weight: bolder;
 }
